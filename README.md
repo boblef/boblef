@@ -9,6 +9,7 @@
 # Kohei Suzuki
 
 - Vancouver based Machine Learning Engineer
+- Able to do from sourcing data to deployment for productions and always try to optimize process by using appropriate metrics, algorithms, and data structures.
 - Wesite: https://boblef.github.io/
 - Resume: https://boblef.github.io/docs/koheisuzuki_resume2020_ML.pdf
 - Contact: kohei.suzuki808@gmail.com
