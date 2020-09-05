@@ -1,4 +1,5 @@
-![cover image](https://cdn.pixabay.com/photo/2017/02/01/21/47/cube-2031511_1280.jpg)
+![githubStats](https://github-readme-stats.vercel.app/api?username=boblef&count_private=true&show_icons=true&theme=dracula)
+![usedLang](https://github-readme-stats.vercel.app/api/top-langs/?username=boblef&layout=compact&theme=dracula)
 
 [![Generic badge](https://img.shields.io/badge/JobHunting-Yes-<COLOR>.svg)](https://boblef.github.io/docs/koheisuzuki_resume2020_ML.pdf)
 [![linked-in badge](https://img.shields.io/badge/LinkedIn-KoheiSuzuki-1da1f2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/koheisuzuki/)
@@ -9,7 +10,6 @@
 # Kohei Suzuki
 
 - Vancouver based Machine Learning Engineer
-- Able to do from sourcing data to deployment for productions and always try to optimize process by using appropriate metrics, algorithms, and data structures.
 - Wesite: https://boblef.github.io/
 - Resume: https://boblef.github.io/docs/koheisuzuki_resume2020_ML.pdf
 - Contact: kohei.suzuki808@gmail.com
