@@ -13,3 +13,33 @@
 - Wesite: https://boblef.github.io/
 - Resume: https://boblef.github.io/docs/koheisuzuki_resume2020_ML.pdf
 - Contact: kohei.suzuki808@gmail.com
+
+# DeepColors<img src="imgs/logo_transparent.png" width="40">
+
+<img src="imgs/devices_logo.png" width="400">
+<img src="imgs/Appstore_ScreenShot_12.9_EN_v2.0.001.jpeg" width="300">
+<img src="imgs/Appstore_ScreenShot_12.9_EN_v2.0.002.jpeg" width="300">
+
+<br>
+
+#### About
+
+DeepColors, which is one of my projects, is an iOS app that helps users colorize sketches that they draw and grayscale images, by using DeepLearning.
+
+#### Links
+
+- Download on AppStore: https://apps.apple.com/us/app/deepcolors/id1540025064
+- Website: https://www.deepcolors-ai.com/
+- Twitter: https://twitter.com/deepcolors_ai
+- Youtube: https://www.youtube.com/channel/UCSp_OsSdS20cFiDrDwdI4TA
+
+#### Skills
+
+- Client: SwiftUI, Swift, UIKit
+- Backend: Flask, Redis (In-memory database), Ubuntu, GCP, Apache2
+- Machine Learning: TensorFlow, PyTorch
+- Others:
+  - Analytics: Firebase
+  - Monetisation: Admob including mediation
+  - Marketing: Twitter, Youtube including video editing
+  - Web: Bootstrap, html, css, js
