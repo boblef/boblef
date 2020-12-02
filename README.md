@@ -16,9 +16,7 @@
 
 # DeepColors<img src="imgs/logo_transparent.png" width="40">
 
-<img src="imgs/devices_logo.png" width="400">
-<img src="imgs/Appstore_ScreenShot_12.9_EN_v2.0.001.jpeg" width="300">
-<img src="imgs/Appstore_ScreenShot_12.9_EN_v2.0.002.jpeg" width="300">
+<img src="imgs/devices_logo.png" width="300"> <img src="imgs/Appstore_ScreenShot_12.9_EN_v2.0.001.jpeg" width="200"> <img src="imgs/Appstore_ScreenShot_12.9_EN_v2.0.002.jpeg" width="200">
 
 <br>
 
