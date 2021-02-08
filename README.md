@@ -11,7 +11,7 @@
 
 - Vancouver based Machine Learning Engineer
 - Wesite: https://boblef.github.io/
-- Resume: https://boblef.github.io/docs/koheisuzuki_resume2020_ML.pdf
+- Resume: https://boblef.github.io/docs/koheisuzuki_resume2021_ML.pdf
 - Contact: kohei.suzuki808@gmail.com
 
 # DeepColors<img src="imgs/logo_transparent.png" width="40">
